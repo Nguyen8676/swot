@@ -1,7 +1,2 @@
-Institut Catholique d'Arts et Métiers
-ICAM Lille
-ICAM Nantes
-ICAM Toulouse
-ICAM Paris-Sénart
-ICAM Bretagne
-ICAM Vendée
+Institut Catholique d'Arts et Métiers Lille
+Institut Catholique d'Arts et Métiers Nantes
